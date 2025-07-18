@@ -1,6 +1,9 @@
 📚 BookNest: Where Stories Nestle
-
-    BookNest ensures a seamless and secure online book shopping experience. Whether you are a casual reader or a bookworm, BookNest makes book discovery and purchase simple and enjoyable and Combining a user-friendly interface with services. BookNest is a complete online book-store web application built using the MERN stack. It features secure user authentication, book search and discovery, smooth cart and order handling, admin book management, and a responsive design accessible on desktop and mobile devices and services for a online shopping experience.
+             BookNest is modern full-stack online book store application built using the mern stack (express.js,react.js,node.js).this project aims to offer an engaging platform where users can easily browse,search,and purchase their favorite book from the comfort of their homes.
+    It provides a role-based system:
+     1.User can browse books,add to cart,purchase,and track thier orders.
+     2.Sellers can list books,and fulfill orders.
+     3.Admins over see the platform,managing users,sellers,and book listings.
 
 🌐 Features
 👤 User Features:
