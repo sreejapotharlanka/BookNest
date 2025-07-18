@@ -1,8 +1,6 @@
 📚 BookNest: Where Stories Nestle
 
-   BookNest is a full-stack web application designed to transform the way book lovers browse, discover, and purchase books online. Combining a user-friendly interface with robust backend services, BookNest ensures a seamless and secure online book shopping experience. Whether you are a casual reader or a bookworm, BookNest makes book discovery and purchase simple and enjoyable.
-
-   BookNest is a complete online book-store web application built using the MERN stack. It features secure user authentication, book search and discovery, smooth cart and order handling, admin book management, and a responsive design accessible on desktop and mobile devices. The project follows clean coding practices, REST API design, and robust backend services for a professional-grade online shopping experience.
+    BookNest ensures a seamless and secure online book shopping experience. Whether you are a casual reader or a bookworm, BookNest makes book discovery and purchase simple and enjoyable and Combining a user-friendly interface with services. BookNest is a complete online book-store web application built using the MERN stack. It features secure user authentication, book search and discovery, smooth cart and order handling, admin book management, and a responsive design accessible on desktop and mobile devices and services for a online shopping experience.
 
 🌐 Features
 👤 User Features:
