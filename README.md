@@ -39,9 +39,9 @@ View and Manage All Orders
 
 🛠️ Technologies Used
 
-Frontend-React.js
-Backend-	Node.js + Express.js
-Database-MongoDB (Local or Atlas)
+Frontend-React.js,
+Backend-	Node.js + Express.js,
+Database-MongoDB (Local or Atlas).
 
 ⚙️ Setup Instructions
    1.Clone the repository. git clone https://github.com/sreejapotharlanka/BookNest
