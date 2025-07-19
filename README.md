@@ -44,7 +44,7 @@ Backend-	Node.js + Express.js,
 Database-MongoDB (Local or Atlas).
 
 ⚙️ Setup Instructions
-   1.Clone the repository. git clone https://github.com/sreejapotharlanka/BookNest
+   1.Clone the repository. git clone https://github.com/sreejapotharlanka/BookNest-Where-Stories-Nestle
    
    2.Install dependencies. cd client npm install cd ../server npm install
 
